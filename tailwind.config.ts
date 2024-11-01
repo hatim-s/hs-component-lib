@@ -43,6 +43,19 @@ const config: Config = {
       xxl: "28px",
       xxxl: "32px",
     },
+
+    borderRadius: {
+      xxxs: "1px",
+      xxs: "2px",
+      xs: "3px",
+      sm: "4px",
+      md: "6px",
+      lg: "8px",
+      xl: "10px",
+      xxl: "12px",
+      xxxl: "14px",
+    },
+
     extend: {
       colors: {
         background: "hsl(var(--background))",
